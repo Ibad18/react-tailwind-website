@@ -1,0 +1,42 @@
+.explore-foods {
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+.image h3{
+    margin-top: -60px;
+    margin-left: 110px;
+    position: absolute;
+    color: #fff;
+    text-align: center;
+
+}
+
+.images {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 0;
+}
+.image img{
+    border-radius: 10px;
+    width: 320px;
+    height: 400px;
+}
+
+/* media query */
+@media (max-width:700px){
+    .images{
+        display: block;
+    }
+    .explore-foods{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .image h3{
+        margin-left: 140px;       
+    }
+}
