@@ -17,7 +17,7 @@ const FoodMenu = () => {
             <h5>Food Title</h5>
             <h5>$ 2.3</h5>
             <p className='text-gray-600 text-[10px]'>Made with Italian Sauce, Chicken and organice vegetables </p>
-            <button>Order Now</button>
+            <button className='bg-[rgb(223,99,119)] border-none rounded-[5px]  text-white cursor-pointer'>Order Now</button>
           </div>
         </div>
         <div className="menu flex p-5 bg-white h-[120px] w-[49%] rounded-[10px] text-left">
@@ -25,8 +25,8 @@ const FoodMenu = () => {
           <div className="right pl-5 leading-[1.5]">
             <h5>Smokey Burger</h5>
             <h5>$ 2.3</h5>
-            <p>Made with Italian Sauce, Chicken and organice vegetables </p>
-            <button>Order Now</button>
+            <p  className='text-gray-600 text-[10px]'>Made with Italian Sauce, Chicken and organice vegetables </p>
+            <button className='bg-[rgb(223,99,119)] border-none rounded-[5px]  text-white cursor-pointer'>Order Now</button>
           </div>
         </div>
         </div>
@@ -36,8 +36,8 @@ const FoodMenu = () => {
           <div className="right pl-5 leading-[1.5]">
             <h5>Nice Burger</h5>
             <h5>$ 2.3</h5>
-            <p>Made with Italian Sauce, Chicken and organice vegetables </p>
-            <button>Order Now</button>
+            <p className='text-gray-600 text-[10px]'>Made with Italian Sauce, Chicken and organice vegetables </p>
+            <button className='bg-[rgb(223,99,119)] border-none rounded-[5px]  text-white cursor-pointer'>Order Now</button>
           </div>
           </div>
           <div className="menu flex p-5 bg-white h-[120px] w-[49%] rounded-[10px] text-left">
@@ -45,8 +45,8 @@ const FoodMenu = () => {
           <div className="right pl-5 leading-[1.5]">
             <h5>Food Title</h5>
             <h5>$ 2.3</h5>
-            <p>Made with Italian Sauce, Chicken and organice vegetables </p>
-            <button>Order Now</button>
+            <p className='text-gray-600 text-[10px]'>Made with Italian Sauce, Chicken and organice vegetables </p>
+            <button className='bg-[rgb(223,99,119)] border-none rounded-[5px]  text-white cursor-pointer'>Order Now</button>
           </div>
           </div>
         </div>
@@ -56,8 +56,8 @@ const FoodMenu = () => {
           <div className="right pl-5 leading-[1.5]">
             <h5>Food Title</h5>
             <h5>$ 2.3</h5>
-            <p>Made with Italian Sauce, Chicken and organice vegetables </p>
-            <button>Order Now</button>
+            <p className='text-gray-600 text-[10px]'>Made with Italian Sauce, Chicken and organice vegetables </p>
+            <button className='bg-[rgb(223,99,119)] border-none rounded-[5px] text-white cursor-pointer'>Order Now</button>
           </div>
           </div>
           <div className="menu flex p-5 bg-white h-[120px] w-[49%] rounded-[10px] text-left">
@@ -65,8 +65,8 @@ const FoodMenu = () => {
           <div className="right pl-5 leading-[1.5]">
             <h5>Chicken Steam Momo</h5>
             <h5>$ 2.3</h5>
-            <p>Made with Italian Sauce, Chicken and organice vegetables </p>
-            <button>Order Now</button>
+            <p className='text-gray-600 text-[10px]'>Made with Italian Sauce, Chicken and organice vegetables </p>
+            <button className='bg-[rgb(223,99,119)] border-none rounded-[5px]  text-white cursor-pointer'>Order Now</button>
           </div>
           </div>
         </div>
