@@ -1,6 +1,5 @@
 import React from 'react'
-// import './SearchBar.css'
-import search_img from '../../assets/search_img.png'
+import search_img from '../assets/search_img.png'
 const SearchBar = () => {
     return (
         <div className='w-full h-[250px] flex items-center justify-center'>

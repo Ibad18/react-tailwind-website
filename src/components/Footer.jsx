@@ -1,8 +1,7 @@
 import React from 'react'
-// import './Footer.css'
-import facebookIcon from '../../assets/facebook-icon.png'
-import instagramIcon from '../../assets/instagram-icon.png'
-import twitterIcon from '../../assets/twitter-icon.png'
+import facebookIcon from '../assets/facebook-icon.png'
+import instagramIcon from '../assets/instagram-icon.png'
+import twitterIcon from '../assets/twitter-icon.png'
 const Footer = () => {
     return (
         <div className='footer w-full px-[10%] items-center text-center'>

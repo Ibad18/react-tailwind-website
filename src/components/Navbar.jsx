@@ -1,6 +1,5 @@
 import React from 'react'
-// import './Navbar.css'
-import brand from '../../assets/brand.avif'
+import brand from '../assets/brand.avif'
 const Navbar = () => {
     return (
         <nav className='w-full h-[70px] px-[10%] flex items-center justify-between md:px-5 md:h-[75px]'>

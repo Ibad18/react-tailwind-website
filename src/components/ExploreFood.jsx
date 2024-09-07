@@ -1,12 +1,11 @@
 import React from 'react'
-// import './ExploreFood.css'
-import pizza_img from '../../assets/pizza-img.jpeg'
-import burger_img from '../../assets/burger-img.jpeg'
-import momo_img from '../../assets/momo-img.jpeg'
+import pizza_img from '../assets/pizza-img.jpeg'
+import burger_img from '../assets/burger-img.jpeg'
+import momo_img from '../assets/momo-img.jpeg'
 const ExploreFood = () => {
     return (
         <div className='text-center px-[10%] mt-12 mb-16 sm:px-0'>
-            <h1>Explore Foods</h1>
+            <h1 className='text-2xl text-black'>Explore Foods</h1>
             <div className="relative flex justify-around my-12">
                 <div className="image ml-4 mr-4">
                     <img src={pizza_img} className='rounded-lg w-[320px] h-[400px]' />

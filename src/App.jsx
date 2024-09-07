@@ -1,15 +1,15 @@
 import React from 'react'
 import './index.css'
-import Navbar from './components/Navbar/Navbar'
-import SearchBar from './components/SearchBar/SearchBar'
-import ExploreFood from './components/ExploreFood/ExploreFood'
-import FoodMenu from './components/FoodMenu/FoodMenu'
-import Footer from './components/Footer/Footer'
+import SearchBar from './components/SearchBar'
+import ExploreFood from './components/ExploreFood'
+import FoodMenu from './components/FoodMenu'
+import Footer from './components/Footer'
+import Navbar from './components/Navbar'
 
 const App = () => {
   return (
     <div>
-      <Navbar />
+      <Navbar/>
       <SearchBar />
       <ExploreFood />
       <FoodMenu />
